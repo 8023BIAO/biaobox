@@ -1,0 +1,14 @@
+{
+  LinearLayout,
+  orientation="vertical",
+  layout_width="fill",
+  layout_height="fill",
+  {
+    ListView;
+    DividerHeight=0;
+    layout_height="-2";
+    id="List";
+    VerticalScrollBarEnabled=false;
+    layout_width="-1";
+  };
+}

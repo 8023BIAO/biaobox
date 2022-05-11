@@ -1,0 +1,31 @@
+{
+
+  {
+    RelativeLayout;
+    layout_width="-1";
+    layout_height="-2";
+    background="0";
+
+      {
+        TextView;
+        layout_height="70dp";
+        gravity="center";
+        layout_margin="-10dp";
+        background="0";
+        layout_width="-1";
+        id="title";
+        singleLine=true,
+        textColor=圆图字体颜色;
+        textSize="14sp";
+      };
+    };
+  
+
+  {
+    LinearLayout;
+    background="0";
+    layout_height="0";
+    layout_width="-2";
+  };
+
+}
